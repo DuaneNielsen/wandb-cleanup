@@ -5,7 +5,7 @@ Deletes models without tags
 To install in your python environment
 
 ```bash
-git clone https://github.com/duanenielsen/wandb-cleanup
+git clone https://github.com/DuaneNielsen/wandb-cleanup.git
 pip install -e .
 ```
 

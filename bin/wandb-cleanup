@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+from wandb_cleanup.clean_wandb_artifacts import clean
+clean()

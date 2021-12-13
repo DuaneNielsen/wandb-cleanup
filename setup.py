@@ -9,4 +9,7 @@ setup(name='wandb-cleanup',
       license='MIT',
       packages=['wandb_cleanup'],
       scripts=['bin/wandb-cleanup'],
+      install_requires=[
+            'wandb',
+      ],
       zip_safe=False)
